@@ -65,8 +65,14 @@ Insights & Recommendations
 
 # 📌 Key Insights
 1. Executive Summary
+<img width="660" height="383" alt="Image" src="https://github.com/user-attachments/assets/ce709813-8d79-4963-8df2-1b8d2903d3fd" />
+   
 2. Product Profitability
-3. Customer Behavior
+ <img width="554" height="337" alt="Image" src="https://github.com/user-attachments/assets/33ef3e90-4cd3-4ac5-97d6-7980bf6039ec" />  
+
+   
+3.  Customer Behavior
+ <img width="608" height="380" alt="Image" src="https://github.com/user-attachments/assets/cd624c88-9206-4575-8907-210b16cc637f" />
 
 # 🌻 Recommendations
 
