@@ -4,7 +4,7 @@
 
 # Over view
 
-##🌼Business Problem
+## 🌼Business Problem
 The company generates sales across multiple products, regions, and customer segments, but lacks visibility into which areas contribute most to profitability. Without understanding the relationship between revenue, cost, and profit across products and customers, decision-makers may miss opportunities to improve margins and drive sustainable growth.
 
 ## Objective
