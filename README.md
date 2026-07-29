@@ -4,13 +4,15 @@
 
 # Over view
 
-## 🌼 Business Statement
+##🌼Business Problem
+The company generates sales across multiple products, regions, and customer segments, but lacks visibility into which areas contribute most to profitability. Without understanding the relationship between revenue, cost, and profit across products and customers, decision-makers may miss opportunities to improve margins and drive sustainable growth.
 
-## Business Problem
+## Objective
+To analyze sales performance, product profitability, customer purchasing behavior, and regional trends in order to identify key revenue drivers, high-performing products, profitable customer segments, and opportunities to improve overall business performance.
 
 
 # Dataset
-The dataset was obtained from Kaggle.It follows a star schema with one fact tables and six dimension tables.
+The dataset was obtained from Kaggle. It follows a star schema with one fact tables and six dimension tables.
 | Tables | Description | Rows |
 |--------| ------------| -----|
 | fact_sales | contains sales record across various territories | 56,046|
