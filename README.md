@@ -1,5 +1,6 @@
 # SALES and PROFITABILITY ANALYSIS
-## 🌐 Portfolio   🔗 Read Article
+## Author: Lamidi Khadijat
+### 🌐 Portfolio   🔗 Read Article
 
 # Over view
 
@@ -13,8 +14,8 @@ The dataset was obtained from Kaggle.It follows a star schema with one fact tabl
 | Tables | Description | Rows |
 |--------| ------------| -----|
 | fact_sales | contains sales record across various territories | 56,046|
-| fact_customers | contains customers  details | 18,148 |
-| fact_products| Contains information about products offered by the business | 293 |
+| Dim_customers | contains customers  details | 18,148 |
+| Dim_products| Contains information about products offered by the business | 293 |
 | Dim_product category | records of available product category | 4|
 | Dim_Product subcategory | Information about various subcategory | 37|
 | Dim_terriotry | Contains territory information | 10|
