@@ -1,6 +1,6 @@
-# SALES and PROFITABILITY ANALYSIS: Identifying Key Drivers of Sales, Profitability and Growth
+# Sales and Profitability Analysis: Identifying Key Drivers of Sales, Profitability and Growth
 
-### 🌐 [Portfolio](https://www.linkedin.com/in/khadijatlamidi/)  🔗 [Read Article](https://medium.com/@omowunmikhadijat011/beyond-revenue-uncovering-the-key-drivers-of-sales-profitability-and-growth-2b920e1de289)
+### 🌐 [Portfolio](https://www.linkedin.com/in/khadijatlamidi/)  🔗 [Read Full Project On Medium](https://medium.com/@omowunmikhadijat011/beyond-revenue-uncovering-the-key-drivers-of-sales-profitability-and-growth-2b920e1de289)
 
 # 🌼 Project Overview
 A company operating across six countries and ten regions sells bikes, clothing, and accessories. While sales volume appeared to increase over time, revenue growth did not always rise at the same rate, making it difficult to identify the factors influencing business performance.
@@ -66,8 +66,8 @@ Insights & Recommendations
 <img width="660" height="383" alt="Image" src="https://github.com/user-attachments/assets/ce709813-8d79-4963-8df2-1b8d2903d3fd" />
 
 - Sales volume increased during the analysis period.
--  Bikes generated 95% of total revenue, indicating a high dependency on a single product category.
--  R evenue growth did not increase proportionally with sales volume, suggesting the influence of product mix, pricing, or margin pressures.
+- Bikes generated 95% of total revenue, indicating a high dependency on a single product category.
+- Revenue growth did not increase proportionally with sales volume, suggesting the influence of product mix, pricing, or margin pressures.
 
 2.  Product Profitability
  <img width="554" height="337" alt="Image" src="https://github.com/user-attachments/assets/33ef3e90-4cd3-4ac5-97d6-7980bf6039ec" />
@@ -82,7 +82,7 @@ Insights & Recommendations
  
 - Customer purchasing power increased throughout the analysis period.
 - Revenue was concentrated in a few key markets, particularly the United States.
--  Growth was primarily driven by existing high performing markets rather than expansion into new markets.
+- Growth was primarily driven by existing high performing markets rather than expansion into new markets.
 
 # 🌻 Recommendations
 
@@ -103,6 +103,7 @@ Lamidi Khadijat - Data Analyst
 -  [LinkedIn](https://www.linkedin.com/in/khadijatlamidi/)
 - [Portfolio](https://lamidikhadijat.vercel.app/)
 - [Email](mailto:omowunmikhadijat011@gmail.com)
+- [Medium](https://medium.com/@omowunmikhadijat011)
 
 
 
