@@ -2,13 +2,24 @@
 
 ### 🌐 Portfolio   🔗 Read Article
 
-# Over view
+# 🌼 Project Overview
+A company operating across six countries and ten regions sells bikes, clothing, and accessories. While sales volume appeared to increase over time, revenue growth did not always rise at the same rate, making it difficult to identify the factors influencing business performance.
+This project analyzes 30 months of transaction data to evaluate sales trends, product profitability, customer behavior, and regional performance. The analysis aims to determine whether gaps in revenue performance are linked to product mix, profitability, customer purchasing patterns, or market concentration.
+The findings revealed a growing number of low-margin products within the portfolio, a heavy reliance on the bike category for revenue generation, and revenue concentration in a small number of key markets.
 
-## Problem Statement 
-The company has experienced growth across its products and regions but lacks visibility into the key factors driving revenue and profitability. Management wants to understand how product performance, customer behavior, and regional trends influence business outcomes.
 
 ## Objective
-To analyze sales performance, product profitability, customer purchasing behavior, and regional trends in order to identify key revenue drivers, high-performing products, profitable customer segments, and opportunities to improve overall business performance.
+1. Determine whether sales performance increased throughout the analysis period.
+2. Identify the key products, categories, customers, and markets driving revenue and profitability.
+3. Evaluate product profitability by identifying products that fall below the target margin and those that contribute most to overall profit.
+4. Analyze customer and regional performance to understand their impact on business growth.
+5. Provide data-driven recommendations to improve profitability and support business decision-making.
+
+# 🧰 Tool
+| Tool | Purpose|
+|------|--------|
+|Power Query| Claening and Transformation|
+| Power BI| Data Modelling and Visualization|
 
 
 # Dataset Description
@@ -26,17 +37,17 @@ The dataset was obtained from Kaggle. It follows a star schema with one fact tab
 
 # Data Workflow
 
-[Data Collection]
+Data Collection
       ↓
-[Data Cleaning & Transformation]
+Data Cleaning
       ↓
-[Data Modeling]
+Data Modeling
       ↓
-[Analysis]
+Data Analysis
       ↓
-[Dashboard Development]
+Dashboard Development
       ↓
-[Reporting]
+Insights & Recommendations
 
 1. Data Collection: The dataset was obtained from Kaggle.
 2. Data Cleaning: Ensure data quality, Checked for duplicated records,  Replaced M with "Male" and F with "Female", and Promoted Headers
@@ -51,12 +62,12 @@ The dataset was obtained from Kaggle. It follows a star schema with one fact tab
 # ✂️ Tool Used
 - Power BI
 
-# Key Insights
+# 📌 Key Insights
 1. Executive Summary
 2. Product Profitability
 3. Customer Behavior
 
-# Recommendations
+# 🌻 Recommendations
 
 
 # Author
