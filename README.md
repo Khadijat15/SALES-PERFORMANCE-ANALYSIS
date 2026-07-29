@@ -58,6 +58,7 @@ Insights & Recommendations
 7. Reporting: Documented key findings and provided actionable recommendations. 
 
 # Data Model
+<img width="698" height="333" alt="Image" src="https://github.com/user-attachments/assets/f11ddb63-c48f-4dc8-a1dd-a4ccc4c72805" />
 
 # ✂️ Tool Used
 - Power BI
