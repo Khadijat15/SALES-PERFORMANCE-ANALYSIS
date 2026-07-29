@@ -1,4 +1,4 @@
-# SALES and PROFITABILITY ANALYSIS: Identifying key revenue and profit driver
+# SALES and PROFITABILITY ANALYSIS: Identifying Key Drivers of Sales, Profitability and Growth
 
 ### 🌐 [Portfolio](https://www.linkedin.com/in/khadijatlamidi/)  🔗 [Read Article](https://medium.com/@omowunmikhadijat011/beyond-revenue-uncovering-the-key-drivers-of-sales-profitability-and-growth-2b920e1de289)
 
@@ -8,7 +8,7 @@ This project analyzes 30 months of transaction data to evaluate sales trends, pr
 The findings revealed a growing number of low-margin products within the portfolio, a heavy reliance on the bike category for revenue generation, and revenue concentration in a small number of key markets.
 
 
-## Objective
+# Objective
 1. Determine whether sales performance increased throughout the analysis period.
 2. Identify the key products, categories, customers, and markets driving revenue and profitability.
 3. Evaluate product profitability by identifying products that fall below the target margin and those that contribute most to overall profit.
@@ -64,22 +64,25 @@ Insights & Recommendations
 # 📌 Key Insights
 1. Executive Summary
 <img width="660" height="383" alt="Image" src="https://github.com/user-attachments/assets/ce709813-8d79-4963-8df2-1b8d2903d3fd" />
- a. Sales volume increased during the analysis period.
- b. Bikes generated 95% of total revenue, indicating a high dependency on a single product category.
- c. Revenue growth did not increase proportionally with sales volume, suggesting the influence of product mix, pricing, or margin pressures.
+
+- Sales volume increased during the analysis period.
+-  Bikes generated 95% of total revenue, indicating a high dependency on a single product category.
+-  R evenue growth did not increase proportionally with sales volume, suggesting the influence of product mix, pricing, or margin pressures.
 
 2.  Product Profitability
  <img width="554" height="337" alt="Image" src="https://github.com/user-attachments/assets/33ef3e90-4cd3-4ac5-97d6-7980bf6039ec" />
-a. The business maintained an average profit margin of approximately 42%.
-b. The number of products below the target margin increased over time.
-c. High revenue products were not always the most profitable products.
+ 
+- The business maintained an average profit margin of approximately 42%.
+- The number of products below the target margin increased over time.
+-  High revenue products were not always the most profitable products.
 
    
 3.  Customer Behavior
  <img width="608" height="380" alt="Image" src="https://github.com/user-attachments/assets/cd624c88-9206-4575-8907-210b16cc637f" />
- a. Customer purchasing power increased throughout the analysis period.
- b. Revenue was concentrated in a few key markets, particularly the United States.
- c. Growth was primarily driven by existing high performing markets rather than expansion into new markets.
+ 
+- Customer purchasing power increased throughout the analysis period.
+- Revenue was concentrated in a few key markets, particularly the United States.
+-  Growth was primarily driven by existing high performing markets rather than expansion into new markets.
 
 # 🌻 Recommendations
 
