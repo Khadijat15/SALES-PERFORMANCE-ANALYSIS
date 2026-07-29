@@ -1,6 +1,6 @@
 # SALES and PROFITABILITY ANALYSIS: Identifying key revenue and profit driver
 
-### 🌐 Portfolio   🔗 Read Article
+### 🌐 [Portfolio](https://www.linkedin.com/in/khadijatlamidi/)  🔗 [Read Article](https://medium.com/@omowunmikhadijat011/beyond-revenue-uncovering-the-key-drivers-of-sales-profitability-and-growth-2b920e1de289)
 
 # 🌼 Project Overview
 A company operating across six countries and ten regions sells bikes, clothing, and accessories. While sales volume appeared to increase over time, revenue growth did not always rise at the same rate, making it difficult to identify the factors influencing business performance.
@@ -60,27 +60,46 @@ Insights & Recommendations
 # Data Model
 <img width="698" height="333" alt="Image" src="https://github.com/user-attachments/assets/f11ddb63-c48f-4dc8-a1dd-a4ccc4c72805" />
 
-# ✂️ Tool Used
-- Power BI
 
 # 📌 Key Insights
 1. Executive Summary
 <img width="660" height="383" alt="Image" src="https://github.com/user-attachments/assets/ce709813-8d79-4963-8df2-1b8d2903d3fd" />
-   
-2. Product Profitability
- <img width="554" height="337" alt="Image" src="https://github.com/user-attachments/assets/33ef3e90-4cd3-4ac5-97d6-7980bf6039ec" />  
+ a. Sales volume increased during the analysis period.
+ b. Bikes generated 95% of total revenue, indicating a high dependency on a single product category.
+ c. Revenue growth did not increase proportionally with sales volume, suggesting the influence of product mix, pricing, or margin pressures.
+
+2.  Product Profitability
+ <img width="554" height="337" alt="Image" src="https://github.com/user-attachments/assets/33ef3e90-4cd3-4ac5-97d6-7980bf6039ec" />
+a. The business maintained an average profit margin of approximately 42%.
+b. The number of products below the target margin increased over time.
+c. High revenue products were not always the most profitable products.
 
    
 3.  Customer Behavior
  <img width="608" height="380" alt="Image" src="https://github.com/user-attachments/assets/cd624c88-9206-4575-8907-210b16cc637f" />
+ a. Customer purchasing power increased throughout the analysis period.
+ b. Revenue was concentrated in a few key markets, particularly the United States.
+ c. Growth was primarily driven by existing high performing markets rather than expansion into new markets.
 
 # 🌻 Recommendations
+
+|Priority| Recommendation| Business Impact | Suggested Owner|
+|--------|---------------|-----------------|----------------|
+|High   | Review pricing and cost structure of high sales, low margin products| Improves profitability and margin performance | Product Manager/Finance Team|
+|High   | Increase visibility and sales of non-bike categories to reduce revenue concentration | Diversifies revenue sources and reduces category risk| Marketing Team/Product Team|
+|Medium | Expand marketing efforts in underperforming regions and countries | Support customer acquisition and revenue growth | Sales & Marketing Team|
+|Medium| Monitor products falling below margin and asses their performance regularly | Prevents margin erosion and improves product portfolio management | Product Team/Finance Team|
+| Low  | Develop performance dashboards for ongoing monitoring of sales and profitability metrics | Enables faster decision making and performance tracking | Business Intelligence Team |
+
 
 
 # Author
 Lamidi Khadijat - Data Analyst
-- 🔗 Connect with me on LinkedIn
-- View my Portfolio 
+
+# 🔗 Connect With Me
+-  [LinkedIn](https://www.linkedin.com/in/khadijatlamidi/)
+- [Portfolio](https://lamidikhadijat.vercel.app/)
+- [Email](mailto:omowunmikhadijat011@gmail.com)
 
 
 
