@@ -1,17 +1,18 @@
-# SALES and PROFITABILITY ANALYSIS
-## Author: Lamidi Khadijat
+# SALES and PROFITABILITY ANALYSIS: Identifying key revenue and profit driver
+
 ### 🌐 Portfolio   🔗 Read Article
 
 # Over view
 
-## 🌼Business Problem
-The company generates sales across multiple products, regions, and customer segments, but lacks visibility into which areas contribute most to profitability. Without understanding the relationship between revenue, cost, and profit across products and customers, decision-makers may miss opportunities to improve margins and drive sustainable growth.
+## Problem Statement 
+The company has experienced growth across its products and regions but lacks visibility into the key factors driving revenue and profitability. Management wants to understand how product performance, customer behavior, and regional trends influence business outcomes.
 
 ## Objective
 To analyze sales performance, product profitability, customer purchasing behavior, and regional trends in order to identify key revenue drivers, high-performing products, profitable customer segments, and opportunities to improve overall business performance.
 
 
-# Dataset
+# Dataset Description
+
 The dataset was obtained from Kaggle. It follows a star schema with one fact tables and six dimension tables.
 | Tables | Description | Rows |
 |--------| ------------| -----|
@@ -23,6 +24,27 @@ The dataset was obtained from Kaggle. It follows a star schema with one fact tab
 | Dim_terriotry | Contains territory information | 10|
 | Dim_date | Date covering Jan 1st 2015 to Dec 31st 2017 | 1096|
 
+# Data Workflow
+
+[Data Collection]
+      ↓
+[Data Cleaning & Transformation]
+      ↓
+[Data Modeling]
+      ↓
+[Analysis]
+      ↓
+[Dashboard Development]
+      ↓
+[Reporting]
+
+1. Data Collection: The dataset was obtained from Kaggle.
+2. Data Cleaning: Ensure data quality, Checked for duplicated records,  Replaced M with "Male" and F with "Female", and Promoted Headers
+3. Data Transformation: Concatenate the first name and last name to get the full name, Added Price and cost column into the sales table, calculated the total price and total cost in order to obtain total profit and calculate profit Margin.
+4. Data Modeling: Created relationships between tables and designed a star schema for reporting.
+5. Data Analysis: Created DAX measures and explored sales, profitability, and customer trends.
+6. Dashboard Development: Built a three page interactive Power BI dashboards to visualize key metrics.
+7. Reporting: Documented key findings and provided actionable recommendations. 
 
 # Data Model
 
@@ -30,15 +52,18 @@ The dataset was obtained from Kaggle. It follows a star schema with one fact tab
 - Power BI
 
 # Key Insights
-
+1. Executive Summary
+2. Product Profitability
+3. Customer Behavior
 
 # Recommendations
 
 
-# Conclusions
+# Author
+Lamidi Khadijat - Data Analyst
+- 🔗 Connect with me on LinkedIn
+- View my Portfolio 
 
-
-# Folders in Repo:
 
 
 
