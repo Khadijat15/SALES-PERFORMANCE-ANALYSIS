@@ -3,7 +3,7 @@
 ### 🌐 [Portfolio](https://www.linkedin.com/in/khadijatlamidi/)  🔗 [Read Full Project On Medium](https://medium.com/@omowunmikhadijat011/beyond-revenue-uncovering-the-key-drivers-of-sales-profitability-and-growth-2b920e1de289)
 
 # 🌼 Project Overview
-A company operating across six countries and ten regions sells bikes, clothing, and accessories. While sales volume appeared to increase over time, revenue growth did not always rise at the same rate, making it difficult to identify the factors influencing business performance.
+A company operating across six countries and ten regions sells bikes, clothing, and accessories. Despite strong sales activity across its markets, management lacked clear visibility into factors driving revenue and profitability. While sales volume appeared to increase over time, revenue growth did not always rise at the same rate, making it difficult to identify the factors influencing business performance.
 This project analyzes 30 months of transaction data to evaluate sales trends, product profitability, customer behavior, and regional performance. The analysis aims to determine whether gaps in revenue performance are linked to product mix, profitability, customer purchasing patterns, or market concentration.
 The findings revealed a growing number of low-margin products within the portfolio, a heavy reliance on the bike category for revenue generation, and revenue concentration in a small number of key markets.
 
@@ -18,7 +18,7 @@ The findings revealed a growing number of low-margin products within the portfol
 # 🧰 Tool
 | Tool | Purpose|
 |------|--------|
-|Power Query| Claening and Transformation|
+|Power Query| Cleaning and Transformation|
 | Power BI| Data Modelling and Visualization|
 
 
@@ -65,24 +65,22 @@ Insights & Recommendations
 1. Executive Summary
 <img width="660" height="383" alt="Image" src="https://github.com/user-attachments/assets/ce709813-8d79-4963-8df2-1b8d2903d3fd" />
 
-- Sales volume increased during the analysis period.
+- Sales volume increased significantly during the analysis period, with the first half of 2017 recording higher quantities sold than the full year of 2016. However, revenue growth did not increase at the same rate, suggesting that factors such as product mix, pricing or margin performance may have reduced the financial impact of higher sales volume.
 - Bikes generated 95% of total revenue, indicating a high dependency on a single product category.
-- Revenue growth did not increase proportionally with sales volume, suggesting the influence of product mix, pricing, or margin pressures.
+- Revenue performance was concentrated in a few key markets, with the United States generating the highest country-level revenue. This indicates that business growth is largely dependent on established markets, creating potential exposure if performance in these region declines.
 
 2.  Product Profitability
  <img width="554" height="337" alt="Image" src="https://github.com/user-attachments/assets/33ef3e90-4cd3-4ac5-97d6-7980bf6039ec" />
  
-- The business maintained an average profit margin of approximately 42%.
-- The number of products below the target margin increased over time.
--  High revenue products were not always the most profitable products.
+- Although, the business maintained an average profit margin of approximately 42%, the number of products falling below the target margin increased over time. This suggests that portfolio expansion was accomplished by a growing number of lower margin products, which could affect profitability if not properly managed.
+-  Several high revenue products were not among the most profitable products. 
 
    
 3.  Customer Behavior
  <img width="608" height="380" alt="Image" src="https://github.com/user-attachments/assets/cd624c88-9206-4575-8907-210b16cc637f" />
  
-- Customer purchasing power increased throughout the analysis period.
-- Revenue was concentrated in a few key markets, particularly the United States.
-- Growth was primarily driven by existing high performing markets rather than expansion into new markets.
+- Customer purchasing power increased throughout the analysis period, indicating revenue growth was supported by strong customer spending patterns.
+- Revenue closes mirrored customer distribution, with the largest customer base generating the highest revenue contribution.
 
 # 🌻 Recommendations
 
